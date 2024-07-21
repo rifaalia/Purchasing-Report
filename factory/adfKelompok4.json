@@ -1,0 +1,9 @@
+{
+	"name": "adfKelompok4",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a6b1702-8d65-4233-8efe-43ca786e7a4b",
+		"tenantId": "49fba8dd-7177-4bdc-9234-232cfc2140fa"
+	}
+}
