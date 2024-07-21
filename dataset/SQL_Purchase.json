@@ -1,5 +1,5 @@
 {
-	"name": "SQL_Dataset",
+	"name": "SQL_Purchase",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "SQL_Purchasing",
